@@ -66,6 +66,14 @@ h1 {
 
 .details {
     background-color: #555;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-size: 14px;
+    border: none;
 }
 
 .details:hover {
